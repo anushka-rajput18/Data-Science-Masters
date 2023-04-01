@@ -1,0 +1,27 @@
+INFO:root:this is my line of execution
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+WARNING:root:this is my warning
+INFO:root:this is my info log
+INFO:root:this is my info log
+INFO:root:this is my info log
+WARNING:root:this is my warning 
+INFO:root:this is my info log
+INFO:root:this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar']
+INFO:root:this is the value of i am logging 1
+INFO:root:this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar']
+INFO:root:this is the value of i am logging 2
+INFO:root:this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar']
+INFO:root:this is the value of i am logging 3
+INFO:root:this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar']
+INFO:root:this is the value of i am logging 4
+INFO:root:this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar']
+INFO:root:this is the value of i am logging [4, 5, 6]
+INFO:root:logggin my j 4 and i is [4, 5, 6]
+INFO:root:logggin my j 5 and i is [4, 5, 6]
+INFO:root:logggin my j 6 and i is [4, 5, 6]
+INFO:root:this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar']
+INFO:root:this is the value of i am logging sudh
+INFO:root:this is the start of my first for loop [1, 2, 3, 4, [4, 5, 6], 'sudh', 'kumar']
+INFO:root:this is the value of i am logging kumar
+INFO:root:this is my final result  with all int [1, 2, 3, 4, 4, 5, 6] ,with all str['sudh', 'kumar']
